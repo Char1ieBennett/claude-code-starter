@@ -16,7 +16,7 @@ It gives you four things:
 You need a Mac or Linux machine with [Claude Code](https://claude.com/claude-code) installed.
 
 ```bash
-git clone https://github.com/<owner>/claude-code-starter.git ~/code/claude-code-starter
+git clone https://github.com/Char1ieBennett/claude-code-starter.git ~/code/claude-code-starter
 cd ~/code/claude-code-starter
 sh install.sh
 ```
